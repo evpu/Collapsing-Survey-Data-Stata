@@ -1,0 +1,61 @@
+location,input_gender,input_response,weight
+Atlantis,Female,Love seaweed,0.4
+Atlantis,Male,Hate seaweed,2
+Atlantis,Female,What's that?,1
+Atlantis,Female,"Replied: ""Indifferent""",0.4
+Atlantis,Male,"Replied: ""Refuse to answer",3
+Atlantis,Female,Love seaweed,0.4
+Atlantis,Female,Hate seaweed,2
+Atlantis,Female,What's that?,3
+Atlantis,Female,"Replied: ""Indifferent""",1
+Atlantis,Male,"Replied: ""Refuse to answer",0.4
+Atlantis,Male,Love seaweed,3
+Atlantis,Female,Hate seaweed,0.8
+Atlantis,Male,What's that?,1
+Atlantis,Female,"Replied: ""Indifferent""",0.4
+Atlantis,Male,"Replied: ""Refuse to answer",3
+Atlantis,Male,"Replied: ""Indifferent""",0.8
+Atlantis,Female,"Replied: ""Refuse to answer",1
+Atlantis,Male,Love seaweed,2
+Atlantis,Male,Hate seaweed,0.8
+Atlantis,Male,"Replied: ""Indifferent""",2
+Atlantis,Male,"Replied: ""Refuse to answer",2
+Atlantis,Male,Love seaweed,2
+Atlantis,Female,Hate seaweed,0.8
+Atlantis,Male,Love seaweed,1
+Atlantis,Male,Hate seaweed,0.4
+Atlantis,Male,Love seaweed,1
+Atlantis,Male,Hate seaweed,0.8
+Atlantis,Female,Love seaweed,2
+Atlantis,Male,Hate seaweed,0.8
+Atlantis,Male,Love seaweed,2
+Proxima b,Female,Love seaweed,2
+Proxima b,Male,Hate seaweed,2
+Proxima b,Female,What's that?,0.8
+Proxima b,Female,"Replied: ""Indifferent""",1
+Proxima b,Male,"Replied: ""Refuse to answer",0.4
+Proxima b,Female,Love seaweed,1
+Proxima b,Female,Hate seaweed,0.8
+Proxima b,Female,What's that?,0.3
+Proxima b,Female,Hate seaweed,0.7
+Proxima b,Male,Love seaweed,1
+Proxima b,Male,Hate seaweed,0.4
+Proxima b,Female,Love seaweed,1
+Proxima b,Male,Hate seaweed,0.8
+Proxima b,Female,Love seaweed,0.3
+Proxima b,Male,Hate seaweed,0.7
+Proxima b,Female,"Replied: ""Indifferent""",1
+Proxima b,Female,"Replied: ""Refuse to answer",0.4
+Proxima b,Male,Love seaweed,1
+Proxima b,Male,Hate seaweed,0.8
+Proxima b,Female,"Replied: ""Indifferent""",1
+Proxima b,Female,"Replied: ""Refuse to answer",0.4
+Proxima b,Male,Love seaweed,1
+Proxima b,Male,Hate seaweed,0.8
+Proxima b,Female,Love seaweed,0.3
+Proxima b,Male,Hate seaweed,1
+Proxima b,Male,Love seaweed,0.4
+Proxima b,Male,Hate seaweed,1
+Proxima b,Female,Love seaweed,0.8
+Proxima b,Male,Hate seaweed,0.3
+Proxima b,Male,Love seaweed,0.7
